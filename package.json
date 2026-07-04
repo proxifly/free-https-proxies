@@ -1,0 +1,26 @@
+{
+  "name": "proxifly-free-https-proxies",
+  "version": "1.0.0",
+  "description": "Free HTTPS Proxies a free list of tested, working HTTPS proxies from 100+ countries, updated continuously",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "https-proxy",
+    "free-proxy",
+    "proxy-list",
+    "proxies",
+    "ssl-proxy",
+    "web-scraping",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Proxifly",
+  "license": "ISC",
+  "homepage": "https://proxifly.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proxifly/free-https-proxies.git"
+  }
+}
